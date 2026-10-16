@@ -16,7 +16,7 @@ project:
 pinout:
   # Inputs
   ui[0]: "Test-ui0"
-  ui[1]: "Test-ui1
+  ui[1]: "Test-ui1"
   ui[2]: "Test-ui2"
   ui[3]: "Test-ui3"
   ui[4]: "Test-ui4"
